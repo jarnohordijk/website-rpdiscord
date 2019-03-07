@@ -13,20 +13,30 @@ Support:
 --
 Operating Systems:
 --
-Windows	✓	
-Linux	✓	
+Windows	✓
+
+Linux	✓
+
 Mac OS	✓
 
 Services:
 --
 YouTube	✓
+
 YouTube Music ✓
+
 Crunchyroll ✓
+
 Netflix	✓
+
 SoundCloud ✓
+
 Anime4You ✓
+
 Twitch	✓	
+
 Aniflix ✓
+
 Rabb.it	✓
 
 Installation:
@@ -38,7 +48,9 @@ Extension:
 Chrome Extension Installation:
 --
 Click this link https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi
+
 Click "Add to Chrome"
+
 Install the application
 
 Firefox Extension Installation:
